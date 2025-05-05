@@ -31,6 +31,10 @@ alert-level-gamma = Gamma
 alert-level-gamma-announcement = Central Command has called the Gamma Alert; the Station is on its last legs, almost everyone is dead, or there is another existential crisis affecting the station. Martial Law is now in effect.
 alert-level-gamma-instructions = All civilians are to immediately seek their nearest head for transportation to a secure location.
 
+alert-level-amber = Amber
+alert-level-amber-announcement = Station-wide lockdown procedures have been engaged. Crewmembers should stay in their workplaces, and are advised to follow any present authorities. Exiting the station is prohibited during the lockdown procedure.
+alert-level-amber-instructions = Station-wide lockdown procedures engaged. Exiting the station is prohibited during the lockdown procedure.
+
 alert-level-delta = Delta
 alert-level-delta-announcement = Station scuttling is imminent, or there is another existential crisis affecting the station. All crew and passengers must be evacuated as applicable. Martial Law is now in effect.
 alert-level-delta-instructions = Crewmembers are advised to listen to heads of staff for more information.
