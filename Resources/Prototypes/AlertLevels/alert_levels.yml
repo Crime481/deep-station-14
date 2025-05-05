@@ -51,6 +51,15 @@
       emergencyLightColor: PaleVioletRed
       forceEnableEmergencyLights: true
       shuttleTime: 600
+    amber:
+      announcement: alert-level-amber-announcement
+      selectable: false
+      sound: /Audio/Misc/delta_alt.ogg
+      disableSelection: true
+      color: Orange
+      emergencyLightColor: Orange
+      forceEnableEmergencyLights: true
+      shuttleTime: 99999
     delta:
       announcement: alert-level-delta-announcement
       selectable: false
@@ -59,7 +68,7 @@
       color: DarkRed
       emergencyLightColor: Orange
       forceEnableEmergencyLights: true
-      shuttleTime: 1200
+      shuttleTime: 99999
     epsilon:
       announcement: alert-level-epsilon-announcement
       selectable: false
@@ -68,4 +77,4 @@
       color: DarkViolet
       emergencyLightColor: DarkViolet
       forceEnableEmergencyLights: true
-      shuttleTime: 1200
+      shuttleTime: 99999
